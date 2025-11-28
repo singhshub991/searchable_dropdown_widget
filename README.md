@@ -238,9 +238,9 @@ abstract class Searchable {
 
 ## Additional information
 
-For more information, visit the [package homepage](https://github.com/yourusername/searchable_dropdown).
+For more information, visit the [package homepage](https://github.com/singhshub991/searchable_dropdown_widget).
 
-If you encounter any issues or have feature requests, please file them on the [issue tracker](https://github.com/yourusername/searchable_dropdown/issues).
+If you encounter any issues or have feature requests, please file them on the [issue tracker](https://github.com/singhshub991/searchable_dropdown_widget/issues).
 
 ## License
 
