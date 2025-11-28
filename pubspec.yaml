@@ -1,6 +1,8 @@
 name: searchable_dropdown_widget
 description: A Flutter package that provides customizable searchable dropdown widgets with filtering capabilities. Perfect for selecting items from large lists with search functionality.
 version: 0.3.0
+repository: https://github.com/singhshub991/searchable_dropdown_widget
+homepage: https://github.com/singhshub991/searchable_dropdown_widget
 
 environment:
   sdk: '>=2.19.6 <4.0.0'
